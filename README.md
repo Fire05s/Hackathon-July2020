@@ -1,2 +1,2 @@
 # Hackathon-July2020
-Files from a Hackathon I participated in July 2020.
+Files from a Hackathon I participated in July 2020. This is a game called Heated Recycling where a player collects spawning plastic water bottles and deposits them into a recycling container to bring down the temperature guage on the top right of the screen. Movement for the player is through W, A, S, and D, and there's also a stamina bar that can be used to spring using Shift. Stamina can be recovered by standing still and recovered twice as fast when standing still on the bench. The game also has a high score system and enemies in the form of raccoons that will spawn once the player reaches a certain threshold of points.
